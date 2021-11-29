@@ -1,3 +1,10 @@
+###################################################
+##### Mariely del Rosario Nieves Gonzales 	#######	
+##### Ariadna Moo Sosa						          #######
+##### Nilda Yah Ucan						            #######
+###################################################
+
+
 Describe the existing regulation in Employment, Ethics, politics, and the data science related regulation. 
 
 
@@ -17,6 +24,166 @@ On the other hand and pursuant to article 106 of the Security Market Law and its
 
 Identify the regulatory framework and institutions that affect the digital economy
 With respect to the frameworks about digital economy in Mexico’s fintech law mainly regulates two types of companies: electronic payment institutions (EPIs, or what other countries call "electronic money issuers") and crowdfunding institutions. Under the law, both types of institutions are permitted to operate with virtual assets (e.g., cryptocurrencies) that are authorized by Bank of Mexico. The law also introduces a regulatory regime for open banking. As such, the law covers only two types of fintech companies from the universe of fintech players that are not addressed by the Mexican regulatory system. It does not provide regulatory guidance for other technology-enabled innovations in financial services, such as fintech’s offering balance sheet lending, big tech companies launching financial services, investment services other than crowdfunding, or central bank digital currencies.
+
+
+1. What is data management? (Nilda)
+
+Data management us the development, execution, and supervision of plans, policies, programs, and practices that deliver, control, protect, and enhance the value of data and information assets throughout their lifecycles.
+
+
+2. What is data? (Nilda)
+
+Data is understood as information that has been stored in digital form.
+
+3. What is an Organizational asset? (Mariely)
+
+An asset is an economic resource,that can be owned or controlled, and that holds or produces value. Assets csn be converted tomoney.
+
+4. What are the principles of Data management? (Nilda)
+
+	- Data is an asset with unique properties.
+	-The value of data can and should be expressedin economic terms.
+	- Management data means managing the quality of data.
+	- It takes Metadata to manage data.
+	- Data management is cross-functional;it requires a range of skills and expertise.
+	- Data management requires an enterprise perspective.
+	- Data management must account for a range of perspectives.
+	- Data management is lifecycle management.
+	- Different types of data have different lifecycle characteristics.
+	- Managing data includes managing the risks associated with data.
+	- Data management requirements must drive Information Technology decisions.
+	- Effective data management requires leadership commitment.
+
+5. What are the data management challenges? (Ariadna)
+	- Data differs from other assets 
+	- Data valuation
+	- Data quality
+	- Planning for better data
+	- Metadata and data management
+	- Data management is cross-functional
+	- Establishing an enterprise perspective
+	- Accounting for other perspective
+	- The data lifecycle
+	- Different types of data
+	- Data and risk
+	- Data management and technology
+	- Effective data management requires leadership and commitment
+	- 
+6.What is the data valuation challengue? (Ariadna)
+
+	Value is the difference between cost of a thing and the benefit derived from that thing. For data, neither the costs not the benefits of data are stardized. Since each organization's data is unique to itself, an approach to data vauation needs to begin by articulating general cost and benefit categories that can be applied consistently within an organizational. A primary challenge to data asset valuation is that the value of data is contextual and often temporal. 
+
+7. What is the Planning for better data challengue?(Ariadna)
+	
+	Planning for better data requires a strategic approach to architecture, modeling, and other design functions. It also depends on strategic collaboration between business and IT leadership. The challenge is that there are usually organizational pressures, as well as the perennial pressures of time and money, that get in the way of better planning. Organizations must balance long- and short-term goals as they execute their strategies. Having clarity about the trade-offs leads to better decisions.  
+
+8. Mention some important applications of data management on the data lifecycle. (Mariely)
+
+	- Creation and usage are the most critical points in the data lifecycle.
+	- Data Quality must be managed throughout the data lifecycle.
+	- Metadata Quality must be managed through the data lifecycle.
+	- Data Security must be managed throughout the data lifecycle.
+	- Data Management efforts should focus on the most critical data.
+
+9. What is the definition of strategy? (Nilda)
+
+	A strategy is a set of choices and decisions that together chart a high-level course of action to achieve high-level goals. A strategic plan is a high-level course of action to achieve high-level goals.  
+
+10. Where data strategy come from? (Nilda)
+	Data strategy must come from an understanding of the data needs inherent in the business strategy: what data the organization needs, how it will get the data, how it will manage it and ensure its reliability over time, and how it will utilize it. 
+
+11. Mention some components of a data management strategy. (Nilda)
+
+	- A compelling vision for data management
+	- A summary business case for data management, with selected examples
+	- Guiding principles, values, and management perspectives
+	- The mission and long-term directional goals of data management
+	- Proposed measures of data management success
+	- Short-term (12-24 months) Data Management program objectives that are SMART
+	- Descriptions of data management roles and organizations, along with a summary of their responsibilities and decision rights.
+	- Descriptions of Data Management program components and initiatives
+	- A prioritized program of work with scope boundaries
+	- A draft implementation roadmap with projects and action items
+
+12. What are the deriverables from strategic planning for data management? (Nilda)
+
+	- A data management charter
+	- A data management scope statement
+	- A data management implementation roadmap.
+
+13. Mention some data managemnet frameworks.(Mariely)
+	
+	1. The strategic alignment model
+	2. The Amsterdam Information Model 
+	3. The DAMA DMBOK Framework 
+	4. DMBOK Pyramid
+	5. DAMA Data Management Framework Evolved
+
+14. Explain the DAMA-DMBOK Framework. (Mariely)
+	
+	The DAMA-DMBOK Framework goes into more depth about the Knowledge Areas that make up the overall scope of data management. Three visuals depict DAMA’s Data Management Framework:  
+
+		• The DAMA Wheel (Figure 5)
+		• The Environmental Factors hexagon (Figure 6)
+		• The Knowledge Area Context Diagram (Figure 7)
+
+15. What is the definition of data handling ethics? (Ariadna)
+ 	Data handling ethics are concerned with how to procure, store, manage, interpret, analyze / apply and dispose of data in ways that are aligned with ethical principles, including community responsibility.
+ 	
+16. What are the core concepts in which the ethics of handling focus? (Ariadna)
+	
+	- Impact on people
+	- Potential for misuse
+	- Economic value of the data.
+
+17. Which are the goals of data handling ethics? (Ariadna)
+
+	1. To define ethical handling of data in the organization.
+	2. To educate staff on the organization risks of improper data handling.
+	3. To change/instill preferred culture and behaviors on handling data.
+	4. To monitor regulatory environment, measure, monitor, and adjust organization approaches for ethics in data.
+
+18. Which are the Ethical principles fordata? (Mariely)
+	
+	- Respect for person, beneficence and justice. 
+
+19. What are the General Data Protection Regulation of the EU Principles?(Mariely)
+
+	- Fairness, Lawfulness, transparency
+	- Purpose limitation
+	- Data minimization
+	- Accuracy 
+	- Storage Limitation 
+	- Integrity and confidentiality
+	- Accountability
+
+20. What is the description of storage limitation principle? (Mariely)
+	
+	Data must be kept in a form that permits identification of data subjects [individuals] for no longer than is necessary for the purposes for which the personal data are processed
+
+21. What is the description of Integrity and confidentiality principle? (Mariely)
+
+	Data must be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures. 
+
+22. Which is the definition of Data Governace? (Mariely)
+	It is defined as the exercise of authority and control (planning, monitoring, andenforcement) over the management of data assets. All organizations make decisions about data, regardless of whether they have a formal Data Governance function.
+
+23. What are the goals of Data Governance and Stewardship? (Nilda)
+
+	1. Enable an organization to manage its data as an asset.
+    2. Define, approve, communicate, and implement principles, policies, procedures, metrics, tools, and responsibilities for data management.
+	3. Monitor and guide policy compliance, data usage, and management activities.
+
+24.  Which are the typical data governance committees/bodies? (Ariadna)
+
+	- Data governance steering committee
+	- Data governace council
+	- Data stewardship teams
+	- Local data governace committee
+
+25. Descrive the data governance council principle. (Ariadna)
+ 	
+ 	Manages data governance initiatives (e.g., development of policies or metrics), issues, and  escalations. Consists of executive according to the operating model used.
 
 
 References

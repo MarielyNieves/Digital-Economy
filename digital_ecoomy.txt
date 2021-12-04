@@ -2,7 +2,8 @@
 ##### Digital Economy, Unit 3: Assigment 1 ###3#
 ##### Mariely del Rosario Nieves Gonzales 	#######	
 ##### Ariadna Moo Sosa     #######
-##### Nilda Yah Ucan	
+##### Nilda Yah Ucan
+Lisette Ruiz Pena
 Data Engineering 9A
 November 29, 2021 #######
 ###################################################
